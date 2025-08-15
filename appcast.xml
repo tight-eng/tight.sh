@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Tight.sh Updates</title>
+        <description>Most recent updates to Tight.sh</description>
+        <language>en</language>
+        
+        <!-- No update items - app is up to date -->
+        
+    </channel>
+</rss>
