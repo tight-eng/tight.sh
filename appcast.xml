@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Tight Voice Updates</title>
-        <description>Most recent updates to Tight Voice</description>
+        <title>Tight.sh Updates</title>
+        <description>Most recent updates to Tight.sh</description>
         <language>en</language>
-        <item>
-            <title>Version 1.1</title>
-            <pubDate>Tue, 19 Aug 2025 14:38:40 GMT</pubDate>
-            <description><![CDATA[Build 2
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.1/tight-voice.zip" 
-                       length="0" 
-                       type="application/octet-stream"
-                       sparkle:version="2"
-                       sparkle:shortVersionString="1.1" />
-        </item>
+        
+        <!-- No update items - app is up to date -->
+        
     </channel>
 </rss>
