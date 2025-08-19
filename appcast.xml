@@ -4,18 +4,6 @@
         <title>Tight Voice Updates</title>
         <description>Most recent updates to Tight Voice</description>
         <language>en</language>
-        <item>
-            <title>Version 1.1</title>
-            <pubDate>Tue, 19 Aug 2025 15:02:26 GMT</pubDate>
-            <description><![CDATA[Build 1.1-2
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.1/tight-voice.zip" 
-                       length="11402894" 
-                       type="application/octet-stream"
-                       sparkle:version="1.1-2"
-                       sparkle:shortVersionString="1.1"
-                       sparkle:edSignature="Q2cF7AS9foxCyuIPn2RxMKfJ6v9TSUK19dfpw2L0zqssRB+hBD0GWZ5UeGiV6snsm0jtOI2rJ7EL9VbQVazHBA==" />
-        </item>
+       
     </channel>
 </rss>
