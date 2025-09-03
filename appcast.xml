@@ -13,7 +13,7 @@
             <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-8/Tight.zip" 
                        length="4731444" 
                        type="application/octet-stream"
-                       sparkle:version="1.2-8"
+                       sparkle:version="4"
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="MP038rQ/tL+NYtcZlr4VI0kjcsnio/xhw01DnRiPEMqMGQMsOYlUAfmxEcOTogkha4Q7FTaMHuKuupdpkS5uBQ==" />
         </item>
@@ -26,7 +26,7 @@
             <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-7/Tight.zip" 
                        length="4661268" 
                        type="application/octet-stream"
-                       sparkle:version="1.2-7"
+                       sparkle:version="3"
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="kJ3D/bxSseiRH/aXa42CJI030+EtqeBJ7kb2G6kX2BesCwXokhcR1SCElavJiQNwykvnlxboSGGfAzSRx1D2CA==" />
         </item>
@@ -39,7 +39,7 @@
             <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-6/tight-voice.zip" 
                        length="4664650" 
                        type="application/octet-stream"
-                       sparkle:version="1.2-6"
+                       sparkle:version="2"
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="9All+76z0t9yCkOv8esWeZk42awL+6c+xrG7TdpCNpI3ZeQuHEPtxn/of0OQ4oivkwWK/4mN3W65YOigtnClDA==" />
         </item>
@@ -52,7 +52,7 @@
             <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2/tight-voice.zip" 
                        length="4687594" 
                        type="application/octet-stream"
-                       sparkle:version="1.2-4"
+                       sparkle:version="1"
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="ua92tVtgDHSzkAqsGGEABdV3BRlruJ9rWGy+pZ1pirQASrT4RyG3cAMeruoap0MRyylgueE4r9XiffehBZzNCQ==" />
         </item>
