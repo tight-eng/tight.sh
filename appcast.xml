@@ -6,6 +6,19 @@
         <language>en</language>
         <item>
             <title>Version 1.2</title>
+            <pubDate>Wed, 03 Sep 2025 13:39:04 GMT</pubDate>
+            <description><![CDATA[Build 1.2-8
+
+- Automated release from CI/CD pipeline]]></description>
+            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-8-2025-09-03T13-38-57/Tight.zip" 
+                       length="4731444" 
+                       type="application/octet-stream"
+                       sparkle:version="1.2-8"
+                       sparkle:shortVersionString="1.2"
+                       sparkle:edSignature="e88STSpItJzAh9yxRKwdbHuT/lEIx+Ux5gPzkHniQGUF4EPqvwGYxQ5Nq/LNAcng+59/+us4JALqGHFxfhm/BQ==" />
+        </item>
+        <item>
+            <title>Version 1.2</title>
             <pubDate>Wed, 03 Sep 2025 13:36:51 GMT</pubDate>
             <description><![CDATA[Build 1.2-8
 
@@ -17,6 +30,5 @@
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="guXOq9JChmxh0jiwnJoSxRNGeTTHJVgXZfr8h/2OsfESJq5vhMbDwKAKBie1dSyWAT9yjwPllwZYJ+tiz6YtDQ==" />
         </item>
-        
     </channel>
 </rss>
