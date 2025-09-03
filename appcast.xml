@@ -5,6 +5,19 @@
         <description>Most recent updates to Tight Voice</description>
         <language>en</language>
         <item>
+            <title>Version 1.3</title>
+            <pubDate>Wed, 03 Sep 2025 23:01:25 GMT</pubDate>
+            <description><![CDATA[Build 10
+
+- Automated release from CI/CD pipeline]]></description>
+            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.3-10-2025-09-03T23-01-23/Tight.zip" 
+                       length="4732703" 
+                       type="application/octet-stream"
+                       sparkle:version="10"
+                       sparkle:shortVersionString="1.3"
+                       sparkle:edSignature="icx74uapwEJghunBrElNOk5HMLyIPg7QI58r0T4CZeUThR3GSHt7qDMqA94ny4ZkblDzJ9ZsTjkVbzshuaEPCg==" />
+        </item>
+        <item>
             <title>Version 1.2</title>
             <pubDate>Wed, 03 Sep 2025 13:45:50 GMT</pubDate>
             <description><![CDATA[Build 9
