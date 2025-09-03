@@ -13,74 +13,10 @@
             <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-8-2025-09-03T13-36-43/Tight.zip" 
                        length="4731444" 
                        type="application/octet-stream"
-                       sparkle:version="6"
+                       sparkle:version="8"
                        sparkle:shortVersionString="1.2"
                        sparkle:edSignature="guXOq9JChmxh0jiwnJoSxRNGeTTHJVgXZfr8h/2OsfESJq5vhMbDwKAKBie1dSyWAT9yjwPllwZYJ+tiz6YtDQ==" />
         </item>
-        <item>
-            <title>Version 1.2</title>
-            <pubDate>Wed, 03 Sep 2025 13:34:40 GMT</pubDate>
-            <description><![CDATA[Build 1.2-8
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-8-2025-09-03T13-34-33/Tight.zip" 
-                       length="4731444" 
-                       type="application/octet-stream"
-                       sparkle:version="5"
-                       sparkle:shortVersionString="1.2-8"
-                       sparkle:edSignature="aS7r8oMt+lC9hDWyIJmns8dD7+OFKKi38KapkCgg6eOJA9/97SCDXuPa/4Tksyt3JQUnCx374u9Y+CDiA9ZcCg==" />
-        </item>
-        <item>
-            <title>Version 1.2</title>
-            <pubDate>Wed, 03 Sep 2025 13:20:57 GMT</pubDate>
-            <description><![CDATA[Build 1.2-8
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-8/Tight.zip" 
-                       length="4731444" 
-                       type="application/octet-stream"
-                       sparkle:version="4"
-                       sparkle:shortVersionString="1.2"
-                       sparkle:edSignature="MP038rQ/tL+NYtcZlr4VI0kjcsnio/xhw01DnRiPEMqMGQMsOYlUAfmxEcOTogkha4Q7FTaMHuKuupdpkS5uBQ==" />
-        </item>
-        <item>
-            <title>Version 1.2</title>
-            <pubDate>Fri, 22 Aug 2025 15:37:56 GMT</pubDate>
-            <description><![CDATA[Build 1.2-7
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-7/Tight.zip" 
-                       length="4661268" 
-                       type="application/octet-stream"
-                       sparkle:version="3"
-                       sparkle:shortVersionString="1.2"
-                       sparkle:edSignature="kJ3D/bxSseiRH/aXa42CJI030+EtqeBJ7kb2G6kX2BesCwXokhcR1SCElavJiQNwykvnlxboSGGfAzSRx1D2CA==" />
-        </item>
-        <item>
-            <title>Version 1.2</title>
-            <pubDate>Thu, 21 Aug 2025 22:26:46 GMT</pubDate>
-            <description><![CDATA[Build 1.2-6
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2-6/tight-voice.zip" 
-                       length="4664650" 
-                       type="application/octet-stream"
-                       sparkle:version="2"
-                       sparkle:shortVersionString="1.2"
-                       sparkle:edSignature="9All+76z0t9yCkOv8esWeZk42awL+6c+xrG7TdpCNpI3ZeQuHEPtxn/of0OQ4oivkwWK/4mN3W65YOigtnClDA==" />
-        </item>
-        <item>
-            <title>Version 1.2</title>
-            <pubDate>Tue, 19 Aug 2025 21:01:31 GMT</pubDate>
-            <description><![CDATA[Build 1.2-4
-
-- Automated release from CI/CD pipeline]]></description>
-            <enclosure url="https://github.com/tight-eng/tight.sh/releases/download/v1.2/tight-voice.zip" 
-                       length="4687594" 
-                       type="application/octet-stream"
-                       sparkle:version="1"
-                       sparkle:shortVersionString="1.2"
-                       sparkle:edSignature="ua92tVtgDHSzkAqsGGEABdV3BRlruJ9rWGy+pZ1pirQASrT4RyG3cAMeruoap0MRyylgueE4r9XiffehBZzNCQ==" />
-        </item>
+        
     </channel>
 </rss>
